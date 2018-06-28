@@ -1,4 +1,4 @@
-#Testing a network connection
+# Testing a network connection
 
 With this program you can determine if you have the right ethernet cable between two hosts.
 
